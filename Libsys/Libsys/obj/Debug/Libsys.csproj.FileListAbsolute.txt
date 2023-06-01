@@ -1,0 +1,33 @@
+C:\Users\QQ206\source\repos\Libsys\bin\Debug\Libsys.exe.config
+C:\Users\QQ206\source\repos\Libsys\bin\Debug\Libsys.exe
+C:\Users\QQ206\source\repos\Libsys\bin\Debug\Libsys.pdb
+C:\Users\QQ206\source\repos\Libsys\obj\Debug\Libsys.csproj.AssemblyReference.cache
+C:\Users\QQ206\source\repos\Libsys\obj\Debug\Libsys.csproj.SuggestedBindingRedirects.cache
+C:\Users\QQ206\source\repos\Libsys\obj\Debug\Libsys.Form1.resources
+C:\Users\QQ206\source\repos\Libsys\obj\Debug\Libsys.Properties.Resources.resources
+C:\Users\QQ206\source\repos\Libsys\obj\Debug\Libsys.csproj.GenerateResource.cache
+C:\Users\QQ206\source\repos\Libsys\obj\Debug\Libsys.csproj.CoreCompileInputs.cache
+C:\Users\QQ206\source\repos\Libsys\obj\Debug\Libsys.exe
+C:\Users\QQ206\source\repos\Libsys\obj\Debug\Libsys.pdb
+Z:\QQ206\Libsys\bin\Debug\Libsys.exe.config
+Z:\QQ206\Libsys\bin\Debug\Libsys.exe
+Z:\QQ206\Libsys\bin\Debug\Libsys.pdb
+Z:\QQ206\Libsys\obj\Debug\Libsys.csproj.AssemblyReference.cache
+Z:\QQ206\Libsys\obj\Debug\Libsys.csproj.SuggestedBindingRedirects.cache
+Z:\QQ206\Libsys\obj\Debug\Libsys.Form1.resources
+Z:\QQ206\Libsys\obj\Debug\Libsys.Properties.Resources.resources
+Z:\QQ206\Libsys\obj\Debug\Libsys.csproj.GenerateResource.cache
+Z:\QQ206\Libsys\obj\Debug\Libsys.csproj.CoreCompileInputs.cache
+Z:\QQ206\Libsys\obj\Debug\Libsys.exe
+Z:\QQ206\Libsys\obj\Debug\Libsys.pdb
+D:\JinoRepos\Jino Project\Libsys\Libsys\bin\Debug\Libsys.exe.config
+D:\JinoRepos\Jino Project\Libsys\Libsys\bin\Debug\Libsys.exe
+D:\JinoRepos\Jino Project\Libsys\Libsys\bin\Debug\Libsys.pdb
+D:\JinoRepos\Jino Project\Libsys\Libsys\obj\Debug\Libsys.Form1.resources
+D:\JinoRepos\Jino Project\Libsys\Libsys\obj\Debug\Libsys.Properties.Resources.resources
+D:\JinoRepos\Jino Project\Libsys\Libsys\obj\Debug\Libsys.csproj.GenerateResource.cache
+D:\JinoRepos\Jino Project\Libsys\Libsys\obj\Debug\Libsys.csproj.CoreCompileInputs.cache
+D:\JinoRepos\Jino Project\Libsys\Libsys\obj\Debug\Libsys.exe
+D:\JinoRepos\Jino Project\Libsys\Libsys\obj\Debug\Libsys.pdb
+D:\JinoRepos\Jino Project\Libsys\Libsys\obj\Debug\Libsys.csproj.AssemblyReference.cache
+D:\JinoRepos\Jino Project\Libsys\Libsys\obj\Debug\Libsys.frmenu.resources
